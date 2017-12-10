@@ -1,0 +1,25 @@
+{
+  "name": "moviesearchapp",
+  "version": "1.0.0",
+  "description": "an app that uses OMDb APi to search movies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smelt/MovieSearchApp.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Shivam Satyarthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smelt/MovieSearchApp/issues"
+  },
+  "homepage": "https://github.com/Smelt/MovieSearchApp#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
